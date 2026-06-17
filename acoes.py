@@ -1,4 +1,3 @@
-
 """
 Listas curadas das principais ações por bolsa
 =============================================
