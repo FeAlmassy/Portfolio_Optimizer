@@ -24,7 +24,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel, Field
 
-import otimizador as core
+import portifolio_optimizer as core
 
 app = FastAPI(title="Portfolio Optimizer API", version="0.1.0")
 
